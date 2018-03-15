@@ -1,0 +1,9 @@
+#jnCatalog{float: left;height: 560px;margin: 0 11px 0 0 ;overflow: hidden;width: 187px;}
+#jnCatalog h2{background: #6e6e6e;height: 30px;line-height: 30px;color: #fff;font-size: 12px;text-indent: 13px;}
+.jnCatainfo{border: 1px solid #6e6e6e;border-top: 0px;padding: 5px 10px 0;width: 165px; overflow: hidden;height: 524px;}
+.jnCatainfo h3{border-bottom: 1px solid #eeeeee;height: 24px;line-height: 24px;width: 164px;}
+.jnCatainfo ul{/*float: left;*/padding: 0 2px 8px;}
+.jnCatainfo li{color: #AEADAE;float: left;height: 24px;line-height: 24px;width: 79px;overflow: hidden;position: relative;}
+.jnCatainfo li a{color: #444444;}
+.jnCatainfo li a.promoted{color: #f9044e;}
+.jnCatainfo li .hot{background: url(../../images/hot.gif);height:16px;position: absolute;top: 0px;width: 21px;}

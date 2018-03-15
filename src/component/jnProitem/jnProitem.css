@@ -1,0 +1,13 @@
+#jnProitem{float: left;width: 312px;height: 560px; }
+#jnProitem .jqzoomwrap{border: 1px solid #BBBBBB;cursor: pointer;float: left;position: relative;}
+#jnProitem .jqzoomwrap a{display: block;font-size: 0px;}
+#jnProitem span{display: block;padding: 10px 0;text-align: center;width: 320px;clear: both;}
+#jnProitem ul.imgList{height: 80px;}
+#jnProitem ul.imgList li{float: left;margin-right: 10px;}
+#jnProitem ul.imgList li img{width: 60px;height: 60px;padding: 1px;background: #EEE;cursor: pointer;}
+#jnProitem ul.imgList li img:hover{padding: 1px;background: #999;}
+.tab{clear: both;float: left;height: 230px;width: 310px;overflow: hidden;}
+.tab .tab_menu li{float: left;text-align: center;cursor: pointer;padding: 1px 6px;margin-right: 4px;background: #F1F1F1;border: 1px solid #898989;border-bottom: none;}
+.tab .tab_menu li.hover{background:#DFDFDF;}
+.tab .tab_menu li.selected{color: #FFF;background: #6D84B4;}
+.tab .tab_box{clear: both;border: 1px solid #898989;height: 104px;}
